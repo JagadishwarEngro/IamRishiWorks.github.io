@@ -1,11 +1,11 @@
 {
-    "name": "rworks_flutter",
-    "short_name": "rworks_flutter",
+    "name": "rworks",
+    "short_name": "rworks",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "rworks is a forward-thinking software development company dedicated to helping businesses thrive in the digital era. With a team of skilled developers, designers, and strategists, we deliver custom solutions that empower businesses to achieve their goals seamlessly.\n\nOur VisionTo be the leading provider of innovative software solutions that transform the way businesses operate and connect with their audiences.\nOur MissionTo deliver exceptional digital products through innovation, collaboration, and cutting-edge technology, ensuring our clients’ success in every project we undertake.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
